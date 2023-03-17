@@ -1,1 +1,1 @@
-# angel
+# PyQt6-Windchill-Calculator
